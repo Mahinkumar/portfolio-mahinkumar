@@ -8,5 +8,5 @@
         <a href="https://blog.mahinkumar.com/">Blog</a>
         <a href="https://linkedin.com/in/mahinkumar/">Linkedin</a>
     </div>
-    <div class="h-10 text-lg absolute top-1 bg-yellow-400/10 w-full flex  justify-center items-center border-yellow-800/50 border-b-2">The site is currently under construction</div>
+    <div class="h-10 text-lg absolute top-1 text-yellow-600 bg-yellow-400/10 w-full flex  justify-center items-center border-yellow-800/50 border-b-2">The site is currently under construction</div>
 </div>
